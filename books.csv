@@ -1,0 +1,123 @@
+isbn,price,title
+ 1931769516,$12.16,Disassembling Code: IDA Pro and SoftICE
+ 978-0-596-52931-4,$49.99,Securing Ajax Applications
+ 978-0-321-34998-9,$46.27,Security Metrics
+ 978-0-0714-9426-7,$40.42,"Hacking Exposed Windows, 3rd Edition"
+ 978-0-596-00963-2,$41.66,Security Power Tools
+ 978-0-471-91710-6,$0.01,Rootkits For Dummies
+ 1466517948,$93.40,Network Attacks and Defenses: A Hands-on Approach
+ 978-1-118-38093-2,$5.00,"Hacking For Dummies, 4th Edition"
+ 978-0-596-51030-5,$32.65,"Network Security Assessment, 2nd Edition"
+ 1782175539,$44.99,Microsoft Dynamics AX 2012 R3 Security
+ 1784396001,$49.99,Learning Python Network Programming
+ 1785281518,$49.99,Windows Malware Analysis Essentials
+ 1430260823,$58.87,Enterprise Cybersecurity
+ 331918301X,$84.59,"Cyber Security: Analytics, Technology and Automation"
+ 978-0-0714-9461-8,$52.00,Hacking Exposed Web 2.0
+ 1466594446,$50.65,Transnational Security
+ 1498723187,$63.82,Security and Privacy in Internet of Things (IoTs)
+ 1516945867,$29.75,Intermediate Security Testing with Kali Linux 2
+ 0132564718,$23.64,Network Forensics
+ 1512214566,$22.49,The Hacker Playbook 2: Practical Guide To Penetration Testing
+ 1783985984,$35.99,Kali Linux CTF Blueprints
+ 1782174907,$49.99,Learning Network Forensics
+ 0470626399,$27.70,"Information Security, 2nd Edition"
+ 1119059658,$42.02,SSCP (ISC)2 Systems Security Certified Practitioner Official Study Guide
+ 159327601X,$36.58,iOS Application Security
+ 1484220528,$36.85,Building a Comprehensive IT Security Program
+ 1849695660,$22.99,Instant Kali Linux
+ 1466571276,$85.45,"Official (ISC)2 Guide to the CSSLP CBK, Second Edition"
+ 1512300772,$15.31,"Hacking: Basic Security, Penetration Testing and How to Hack"
+ 1449310044,$34.80,"Inside Cyber Warfare, 2nd Edition"
+ 3319160265,$79.99,Security Planning: An Applied Approach
+ 978-0-59652-763-1,$30.58,"Network Security Hacks, 2nd Edition"
+ 1847199380,$44.99,GlassFish Security
+ 1449374182,$36.97,Accumulo
+ 1491920947,$39.99,Essential Cybersecurity Science
+ 3319023896,$129.00,Security and the Networked Society
+ 143983721X,$109.54,Visual Cryptography and Secret Image Sharing
+ 151719301X,$5.49,Protect Your Privacy
+ 1522785930,$15.08,Immune Web: What makes the Internet Safe?
+ 149191095X,$37.49,"Network Security Assessment, 3rd edition"
+ 1845647688,$690.00,Handbook of Communications Security
+ 3319247158,$89.99,Security and Privacy for Mobile Healthcare Networks
+ 1849694125,$19.99,Instant Penetration Testing
+ 1782166785,$49.99,"Metasploit Penetration Testing Cookbook, Second Edition"
+ 1847199747,$49.99,Spring Security 3
+ 1119154685,$22.86,"Hacking For Dummies, 5th Edition"
+ 1783988045,$39.99,Mastering Python Forensics
+ 1783986042,$24.99,BeagleBone for Secret Agents
+ 1849510504,$39.99,Hacking Vim 7.2
+ 1782163581,$49.99,Learning Metasploit Exploitation and Development
+ 1627058435,$45.00,Database Anonymization
+ 1849681481,$54.99,IBM WebSphere Application Server v7.0 Security
+ 1785288105,$44.99,Big Data Forensics – Learning Hadoop Investigations
+ 1491904011,$24.44,The Architecture of Privacy
+ 1466559578,$109.88,"Distributed Networks: Intelligence, Security, and Applications"
+ 0133773922,$23.99,"Computer Security: Principles and Practice, 3rd Edition"
+ 978-0991439959,$15.00,A Practical Guide to Networking and Security in iOS 8
+ 1785281976,$29.99,Bitcoin Essentials
+ 1119028752,$34.78,The Antivirus Hacker’s Handbook
+ 1430265833,$39.99,A Practical Guide to TPM 2.0
+ 1118896696,$49.25,Security Intelligence
+ 978-3319156170,$72.00,Engineering Secure Software and Systems
+ 978-1783263745,$99.00,Data Analysis For Network Cyber-Security
+ 978-1439896464,$24.19,Android Security: Attacks and Defenses
+ 1593275730,$16.98,Bitcoin for the Befuddled
+ 1466501332,$90.95,Cyberspace and Cybersecurity
+ 0470931663,$22.04,"Computer Forensics JumpStart, 2nd Edition"
+ 1893939944,$94.95,"Wireshark Network Analysis, 2nd Edition"
+ 1466578955,$69.20,"Official (ISC)2 Guide to the CISSP-ISSMP CBK, Second Edition"
+ 1511797568,$13.94,Python Hacking Essentials
+ 978-3-642-40202-9,$143.00,Computer Security – ESORICS 2013
+ 978-1-78216-923-9,$37.99,Cuckoo Malware Analysis
+ 978-1-118-80999-0,$18.42,Threat Modeling
+ 978-1-484201-49-7,$79.99,The Manager’s Guide to Web Application Security
+ 978-0-4704-4496-2,$95.70,Fragile networks
+ 978-1-4302-6382-1,$39.99,The InfoSec Handbook
+ 978-1-118-66209-0,$19.50,The Browser Hacker’s Handbook
+" 1494932636, 9781494932633",$21.62,The Hacker Playbook: Practical Guide To Penetration Testing
+ 978-0-0716-2677-4,$42.63,"Hacking Exposed Computer Forensics, 2nd Edition"
+ 978-0-596-52748-8,$31.81,Beautiful Security
+ 978-0-596-80276-9,$28.05,Cloud Security and Privacy
+ 978-0-0716-6661-9,$43.67,"Hacking Exposed Wireless, 2nd Edition"
+ 978-0-0717-4064-7,$36.36,"Hacking Exposed Web Applications, 3rd Edition"
+ 978-1-4302-2730-4,$44.99,"Enterprise Mac Security: Mac OS X Snow Leopard, 2nd Edition"
+ 978-1-118-83635-4,$26.73,Cyber Threat!
+ 978-1-118-12706-3,$62.13,"Computer Security Handbook, 6th Edition"
+ 978-1-59327-590-7,$23.85,Black Hat Python
+ 978-1-118-79372-5,$16.83,Data-Driven Security
+" 978-1-78328-477-1, 1783284773",$45.49,Building Virtual Pentesting Labs for Advanced Penetration Testing
+ 978-1-118-88814-8,$92.95,Cybersecurity for Executives
+ 978-1-4493-8839-3,$15.91,Hackers
+ 978-1-118-60864-7,$16.05,Android Hacker’s Handbook
+ 978-1-4302-5113-2,$39.99,Managing Risk and Information Security
+ 978-1-59327-581-5,$36.52,Android Security Internals
+ 978-1-59327-290-6,$46.80,Practical Malware Analysis
+ 978-1-84951-394-4,$49.99,BackTrack 4: Assuring Security by Penetration Testing
+ 978-1-118-02780-6,$42.42,Cyber Security Policy Guidebook
+ 978-1-4302-6818-5,$84.99,Advanced API Security
+ 978-0-596-51483-9,$28.27,Web Security Testing Cookbook
+ 978-1-84951-774-4,$59.99,Advanced Penetration Testing for Highly-Secured Environments
+ 978-1-84951-742-3,$49.99,Metasploit Penetration Testing Cookbook
+ 978-1-59749-237-9,$8.14,Reverse Engineering Code with IDA Pro
+ 978-0-0722-6257-5,$40.42,"Hacking Exposed Linux, 3rd Edition"
+ 978-1-84951-738-6,$44.99,BackTrack 5 Cookbook
+ 978-1-59327-144-2,$14.69,"Hacking, 2nd Edition"
+ 978-0-596-52302-2,$18.75,The Myths of Security
+ 978-0-0716-1374-3,$0.01,"Hacking Exposed, 6th Edition"
+ 978-0-321-59180-7,$18.00,Practical Intrusion Analysis
+ 978-0-07178-4-351,$58.31,"Information Security The Complete Reference, 2nd Edition"
+ 978-1-78216-316-9,$49.99,Web Penetration Testing with Kali Linux
+ 978-1-118-82509-9,$52.17,The Art of Memory Forensics
+ 978-1-59327-163-3,$33.03,Hacking VoIP
+" 978-1-78328-297-5, 1783282975",$29.99,Penetration Testing with BackBox
+ 978-1-84969-510-7,$22.99,Penetration Testing with the Bash shell
+ 978-0-596-51816-5,$37.08,Security Monitoring
+ 978-1-59327-564-8,$35.39,Penetration Testing
+ 978-1-78216-222-3,$42.99,Mastering Metasploit
+ 978-1-78355-099-9,$34.99,Learning Nessus for Penetration Testing
+ 978-1-78398-214-1,$24.49,Kali Linux Network Scanning Cookbook
+ 978-1-118-78731-1,$16.91,Practical Reverse Engineering
+ 978-1-78328-898-4,$29.99,Learning Pentesting for Android Devices
+ 978-1-118-81011-8,$58.25,Hacking Point of Sale
